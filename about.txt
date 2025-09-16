@@ -1,0 +1,3 @@
+K.Rupa Sri Lakshmi
+BSC Computer Science
+One significant thing to learn about GitHub is its fundamental role as a platform for collaborative version control using Git. It provides a centralized, web-based interface for managing Git repositories, enabling multiple developers to work on the same project simultaneously and efficiently.
